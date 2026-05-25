@@ -1,2 +1,5 @@
-# Hello my name is brentley im 13 and i love to code
-this is my first minecraft mod it a bit buggy.
+# Hello, my name is Brentley.
+
+I am a 13-year old programmer who loves coding and building projects.
+
+This is my first Minecraft mod currently in development.
